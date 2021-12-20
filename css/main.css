@@ -1,0 +1,86 @@
+/*Banner*/
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat:wght@300&family=Poiret+One&display=swap');
+  
+body{      /*Sfondo pagina*/
+    background-color: #f0f0f0;
+    margin: 0px;
+    text-align: center;
+  }
+
+h1{     /*Testata*/
+  margin: 0%;
+  /*background-color: black;*/
+  font-size: 70px;
+  color:black;
+  font-family: 'Monoton', cursive;
+}
+
+h2{     /*Titolo*/
+  text-align: left;
+  font-size: 60px;
+  color: #4aa1cc;
+  margin-bottom: 0%;
+  font-family: 'Poiret One', cursive;
+  
+}
+span.red{
+   color: #eb1c23;
+}
+
+span.blu{
+   color: #4aa1cc;
+}
+
+
+span.black{
+   color: black;
+}
+h3{     /*Sottotitolo*/
+  text-align: left;
+  font-size: 30px;
+  color: #4aa1cc;
+  margin-top: 0%;
+  font-family: 'Poiret One', cursive;
+  font-weight: normal;
+}
+
+div{      /*Paragrafo*/
+  margin-top: 0%;
+  text-align: justify;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+p{      /*Contenitore cose*/
+  margin: 4% auto 4% auto;
+  text-align: center;
+}
+
+a:link {
+  color: #4aa1cc;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4aa1cc;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eb1c23;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #eb1c23;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+  
